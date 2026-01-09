@@ -13,6 +13,7 @@ I don't really expect *anyone* to stumble upon this repo, however I can't rule o
 [Contributions](#contributions)
   - Contribution format (tba)
   - How can I contribute? (tba)\
+
 [Resources](#resources)
   - [Studying](#studying)
   - [Coding](#coding)
