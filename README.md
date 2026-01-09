@@ -1,8 +1,8 @@
 # Git_Test
 ## Introduction
 ### Hi!
-I am **Angel** and this is my first (not counting the one with an unfixable mistake) repository.\
-Its only purpose is to give me – or *anyone* for that matter – a space for practicing **Git**.
+I am **Angel** and this is my first (not counting the two with unfixable mistakes) repository.\
+Its only purpose is to give me – or *anyone* for that matter – a space for practicing <ins>**Git</ins>.**
 
 I don't really expect *anyone* to stumble upon this repo, however I can't rule out the possibility, hence the reason for this introduction.
 
@@ -11,8 +11,8 @@ I don't really expect *anyone* to stumble upon this repo, however I can't rule o
 ### Table of Contents
 
 [Contributions](#contributions)
+  - How can I contribute? (tba)
   - Contribution format (tba)
-  - How can I contribute? (tba)\
 
 [Resources](#resources)
   - [Studying](#studying)
@@ -20,10 +20,10 @@ I don't really expect *anyone* to stumble upon this repo, however I can't rule o
      - [Extensions](#extensions-i-use-in-vs-code)
 
 ## Contributions
- No matter your experience this is a safe space for you too practice **Git** with me :)
+ No matter your experience this is a safe space for you too practice <ins>**Git**</ins> with me :)
 
-For the commands you will use the most I recommend The Odin Project (I'll come back to this in a bit) to teach you that.\
-As well as looking up what specific commands mean if the provided explanation is not giving enough context for you.
+For the commands you will use the most I recommend <ins>The Odin Project</ins> (I'll come back to this in a bit) to teach you that.\
+As well as looking up what specific commands mean, if the provided explanation is not giving enough context for you.
 - For me doing those helped me remember them
 
 **To be added**
@@ -45,7 +45,7 @@ In the beginning you can choose from different "courses" to take.\
 There are Certification projects at the ends of different parts and a Certification Exam at the end, which – naturally – provides a Certification in the end.
 
 The [theodinproject](https://www.theodinproject.com) recommends using <ins>VS Code</ins> for coding and it's not possible on the website itself (as far as I know).\
-In the <ins>Foundation</ins> course it also provides a full and (mostly) understandable **Git** download and usage tutorial as well as a <ins>Discord</ins>  community full of nice and helpful people.
+In the <ins>Foundation</ins> course it also provides a full and (mostly) understandable <ins>**Git**</ins> download and usage tutorial, as well as a <ins>Discord</ins>  community full of nice and helpful people.
 
 ### Coding
 For coding I recommend using [VS Code](https://code.visualstudio.com).\
