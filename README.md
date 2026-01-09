@@ -12,7 +12,7 @@ I don't really expect *anyone* to stumble upon this repo, however I can't rule o
 
 [Contributions](#contributions)
   - Contribution format (tba)
-  - How can I contribute? (tba)
+  - How can I contribute? (tba)\
 [Resources](#resources)
   - [Studying](#studying)
   - [Coding](#coding)
@@ -27,14 +27,14 @@ As well as looking up what specific commands mean if the provided explanation is
 
 **To be added**
 - [ ] Contribution format
-- [ ] How can I contribute? (steps)
+- [ ] How can I contribute?
 
 ## Resources
 
 ### Studying
 For studying I definitely recommend these two websites:
-- freeCodeCamp
-- theodinproject
+- [freeCodeCamp](https://www.freecodecamp.org)
+- [theodinproject](https://www.theodinproject.com)
 
 They both provide theory and practice for free.\
 This is thanks to all the support, donations and contributions.
