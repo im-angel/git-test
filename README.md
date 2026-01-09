@@ -27,8 +27,8 @@ As well as looking up what specific commands mean, if the provided explanation i
 - For me doing those helped me remember them
 
 **To be added**
-- [ ] Contribution format
 - [ ] How can I contribute?
+- [ ] Contribution format
 
 ## Resources
 
